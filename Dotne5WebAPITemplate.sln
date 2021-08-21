@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotne5WebAPITemplate.API", "Dotne5WebAPITemplate.API\Dotne5WebAPITemplate.API.csproj", "{B12AABD4-7AF6-4FD6-B524-4D16600D651C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotne5WebAPITemplate.DAL", "Dotne5WebAPITemplate.DAL\Dotne5WebAPITemplate.DAL.csproj", "{FD0E5133-5CB8-448C-8BCC-DA3E261AE304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotne5WebAPITemplate.Models", "Dotne5WebAPITemplate.Models\Dotne5WebAPITemplate.Models.csproj", "{5AE43103-CF9C-462A-AC79-29B9F9E7EDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotne5WebAPITemplate.Services", "Dotne5WebAPITemplate.Services\Dotne5WebAPITemplate.Services.csproj", "{B01CE415-5B41-47D6-AA68-C59C65A2C107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12AABD4-7AF6-4FD6-B524-4D16600D651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12AABD4-7AF6-4FD6-B524-4D16600D651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12AABD4-7AF6-4FD6-B524-4D16600D651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12AABD4-7AF6-4FD6-B524-4D16600D651C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0E5133-5CB8-448C-8BCC-DA3E261AE304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0E5133-5CB8-448C-8BCC-DA3E261AE304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0E5133-5CB8-448C-8BCC-DA3E261AE304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0E5133-5CB8-448C-8BCC-DA3E261AE304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE43103-CF9C-462A-AC79-29B9F9E7EDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE43103-CF9C-462A-AC79-29B9F9E7EDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE43103-CF9C-462A-AC79-29B9F9E7EDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE43103-CF9C-462A-AC79-29B9F9E7EDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01CE415-5B41-47D6-AA68-C59C65A2C107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01CE415-5B41-47D6-AA68-C59C65A2C107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01CE415-5B41-47D6-AA68-C59C65A2C107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01CE415-5B41-47D6-AA68-C59C65A2C107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5DEEDE-9EA7-49D7-9823-88AA06C36087}
+	EndGlobalSection
+EndGlobal
